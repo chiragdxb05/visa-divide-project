@@ -1,7 +1,7 @@
 # The Global Mobility Divide
 
 **Course:** GRAD-E1493 Data Journalism, Hertie School, Spring 2026  
-**Author:** Chirag Ramesh 
+**Author:** Chirag Ramesh
 **Date:** March 2026
 
 ---
